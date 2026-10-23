@@ -1,343 +1,531 @@
 [[XDiag]]
 arch = "aarch64"
-git-tree-sha1 = "c11874a6f556303b2c17273e96a09ccc4d4f0861"
+git-tree-sha1 = "0e3885856d4616dafbc399a3316e6c1b018e9502"
 julia_version = "1.10.0"
 os = "macos"
 
     [[XDiag.download]]
-    sha256 = "4c3422ec2be9cbca7dd6c5e6235c7f608a25e5d86ac35b439b3a1c534274ce25"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "157ecba2485eac674d35af324db33b17aa477541d7585ba377a71b5f19b89993"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[XDiag]]
 arch = "aarch64"
-git-tree-sha1 = "ce405a087629610d3efaf5ee67a77b09607f1ba7"
+git-tree-sha1 = "0f89d88dd8278c36827aee44248af49e802ff203"
 julia_version = "1.11.1"
 os = "macos"
 
     [[XDiag.download]]
-    sha256 = "f0bd5160d2f7002f71d0c322b81c86efa47d9b767f1bc9bca2b8b94edd108ecf"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "cbd8bce55418b5de63c227eab3f8a074d294b4d72be1814fc6df82dbadc26907"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[XDiag]]
 arch = "aarch64"
-git-tree-sha1 = "b067f715081943ec80e1f6ec51c08dc6307ca36f"
+git-tree-sha1 = "d5fe161358d1ab4387b27a3b05f2e7436f165e5f"
 julia_version = "1.12.0"
 os = "macos"
 
     [[XDiag.download]]
-    sha256 = "85129ed3e1c10ce8b10efcdc38b7639cc945c676830ab77d2162b9f5056e4123"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "92c89c7e14c21cbc9c4b803f53ed65baa89f7d1398a37e32a7920dfb6b6c4357"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[XDiag]]
 arch = "aarch64"
-git-tree-sha1 = "1f284f4283ebe781a213f9a04d40ad156c12ae14"
+git-tree-sha1 = "1a0e02dcdad6ceea8079af05e2d5f47d9064611f"
 julia_version = "1.13.0"
 os = "macos"
 
     [[XDiag.download]]
-    sha256 = "8a0f2cd016b591f2e6aea082f5d2993bc52a930a789152e738f46c53eec44a51"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
+    sha256 = "c8de9bacbfe0355b4ca4a5e106d86514aade563f4df9ed3c3508847db9427ade"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
+[[XDiag]]
+arch = "aarch64"
+git-tree-sha1 = "d691ebb75e35b41c6007f01e1846dcf47882a2fa"
+julia_version = "1.14.0"
+os = "macos"
+
+    [[XDiag.download]]
+    sha256 = "cb31892ad5de0520df2416fc0d2d035fe41ad5d95e73ece150897010a915aca7"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.aarch64-apple-darwin-julia_version+1.14.0.tar.gz"
+[[XDiag]]
+arch = "aarch64"
+git-tree-sha1 = "81e01c22a9727b7aaa444bb18bf0906d57936a4c"
+julia_version = "1.15.0"
+os = "macos"
+
+    [[XDiag.download]]
+    sha256 = "257cf78bc9a7a87fc2786f661291e6e7bf38206862bca1e09ef98f4a19fb50a4"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.aarch64-apple-darwin-julia_version+1.15.0.tar.gz"
 [[XDiag]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4ab56b85f7c948d7ac1e994b7862e8256c5e07e4"
-julia_version = "1.10.0"
-libc = "glibc"
-os = "linux"
-
-    [[XDiag.download]]
-    sha256 = "ce5ac3ac09c494d113be4ddd07089f558038afeaa73848bc5cd95a7d376436d9"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
-[[XDiag]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "791c6cf31aceff99f2428b0640feafe874de0c55"
-julia_version = "1.11.1"
-libc = "glibc"
-os = "linux"
-
-    [[XDiag.download]]
-    sha256 = "27ff42f0a907c22824873dca4db25664668527d0f01577977b0e351d27126159"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
-[[XDiag]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "58f40944bb33af64d569c57da2f8f5b1d076b58d"
-julia_version = "1.12.0"
-libc = "glibc"
-os = "linux"
-
-    [[XDiag.download]]
-    sha256 = "781c28804f382c16885b9e8999197cd88772b2d8ce46c2eb685be00b9c87e6df"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
-[[XDiag]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "932619f1e8749e9e72be2917a596e23a54d84cdd"
-julia_version = "1.13.0"
-libc = "glibc"
-os = "linux"
-
-    [[XDiag.download]]
-    sha256 = "8b64806f15778e07371b4ee9c3019f829cf33abdf5a21e506067bff7a8936438"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
-[[XDiag]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "1e9ae8dcbcdf79bd00ba5c7553721afe9b2ca356"
-julia_version = "1.10.0"
-libc = "musl"
-os = "linux"
-
-    [[XDiag.download]]
-    sha256 = "c43bbdee93fc8da0fcbee9a10b8602f65037d991a22afea7dde8acf8c7bcc503"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
-[[XDiag]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "7ab24bf0a966d0fb814116bd3f4882c14761e249"
-julia_version = "1.11.1"
-libc = "musl"
-os = "linux"
-
-    [[XDiag.download]]
-    sha256 = "9c341925a52890e674cf69e7bb201de2232cc544e6b0585de05af331ff9dc639"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.aarch64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
-[[XDiag]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "a8a3aa7c544d0a5ce2ab1ba23c97de057dae383a"
-julia_version = "1.12.0"
-libc = "musl"
-os = "linux"
-
-    [[XDiag.download]]
-    sha256 = "d0dda903ab3025223d69ec48e11038314aa30c0721730a5e5e9f0389da2ce317"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
-[[XDiag]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "4ab9e49e3807229002bccc3a1bf2d44d6d6dc10b"
-julia_version = "1.13.0"
-libc = "musl"
-os = "linux"
-
-    [[XDiag.download]]
-    sha256 = "a16d97e71954bebbb8befee3d5c352bec00b2468cdc4d9c09f06caa45552a75f"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.aarch64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
-[[XDiag]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e6e0dbee9f2a5ba93dd639aea3482db26d46002f"
+git-tree-sha1 = "5f6910783548096e091b4dccce61b8edafe83fbe"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[XDiag.download]]
-    sha256 = "e725bca2e68ee9bf0370b53b045f480ad196f90f34210f0826736647d4112dfd"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "078ca89e0057c106394ae8e692816db81d960143533a137e050dca2619214101"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[XDiag]]
-arch = "powerpc64le"
+arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "61bad35e8f691e87b1319b55c32f0925fe7dccd1"
+git-tree-sha1 = "9d3088dbcbbe5e0f5c5e6785560b05c04b4fd285"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[XDiag.download]]
-    sha256 = "913656bc03068c3c82d47b084c1f4704d074880e4a3f1d1a8525ebfea47c85fa"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "15f908d0f4e45828e9b494d2613b925bb231110b98bd5194911f0d35b8c93ee5"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[XDiag]]
-arch = "powerpc64le"
+arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aa78ab99a6c217dc7336d2ac349ae42f4eae7dbb"
+git-tree-sha1 = "c7b2be9b56392ecfee50479d9849203b18de3f63"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[XDiag.download]]
-    sha256 = "9c1d721b3bfd591ff5bf0554467e3c682d79a4d3d04e3baa547489bfe2a6de97"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "222b416a47f28228d25bd89fbe15cb82fa48ceb86883c11e0008e3039b861e11"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[XDiag]]
-arch = "powerpc64le"
+arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7841622edf116bc019a840908429530aa938ca9e"
+git-tree-sha1 = "0224973dbd07c6abdbdc700488e82f17d034daff"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[XDiag.download]]
-    sha256 = "93861d4ee904293bb7540f7bdb9ebeb35f8878551c58f6e3cc9d17682722cac9"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.powerpc64le-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "068ebbca4b4f97dd7db69208177e28c7aef76d9f8e053ae5900c9868b6411fdc"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[XDiag]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9ea278263a80bb7debd8029683d06c6c5fb5bebf"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "f7823f2aaa282e0a943199fc5c70bb1f81f91601d2f85aa221ce7c8d3aedec17"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.aarch64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+[[XDiag]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0a13ac55794139def7a85f4be8004bf5691ed713"
+julia_version = "1.15.0"
+libc = "glibc"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "daa3053ec1e67e969be8daf1757765b2595fb6c29ab18362fac764032b89b9c9"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.aarch64-linux-gnu-cxx11-julia_version+1.15.0.tar.gz"
+[[XDiag]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2ec679acd2fac4ca96343c2e60a7849d64850a63"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "9176aa5917d339563c8e6716f1dee2048f47f588d75908f0b1e77619f7834466"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+[[XDiag]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3927169a5ea8499339e15ed0b78fa1d5e0bb29e8"
+julia_version = "1.11.1"
+libc = "musl"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "e37db0abfb16b68e975d2cc0be77175946f5b076dcbc94da20ae77c0a7fefdce"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.aarch64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+[[XDiag]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4478c64e8d42e166db579b295420cf195393f343"
+julia_version = "1.12.0"
+libc = "musl"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "08f784ba9474521047b4f36b7d41eb762efc1d86273ee347e9a46a9e79ca88dc"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+[[XDiag]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3263b686b60952e10a8e5e3c76718f35959681f3"
+julia_version = "1.13.0"
+libc = "musl"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "56065e4f26c096f5b619d363cf69e8c1dedafd9af18ae60368a6cf86c4fda14d"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.aarch64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
+[[XDiag]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aa754472c6e0a5e79826a8a850e8dd23c3f131dd"
+julia_version = "1.14.0"
+libc = "musl"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "77bbdcbc205fd24e462d66dacb156d639748dc50b96731ea0e64b3be8d4a8ead"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.aarch64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
+[[XDiag]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "227901ae41b94260f3d8fe89a9735d13c669666f"
+julia_version = "1.15.0"
+libc = "musl"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "779daedb9941f819be1f9914a9732a7e7ca62a8ea144bb4cea2bacfa38f9930a"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.aarch64-linux-musl-cxx11-julia_version+1.15.0.tar.gz"
+[[XDiag]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8b597185edcaa64162465f03322a67832f0688f9"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "72ade6b578d271a30f004ce46babea9412bf87d2131513b0ae6501e8c8d02f3f"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[XDiag]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8e8a17fb26faadf46867f7a94c063342f5a6acdd"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "d1fcd07a0504b2968f5fa06ce73d1fbfad4261f81469d8c1dea3b2d232b332cf"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[XDiag]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "23b375de67b9066a8254635117c990c25c1a7252"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "733f5b215bf0854d38713720618ef24fdc82d1d3b480a0a4ed1e0612f27289dc"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[XDiag]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9603de74626d8edf7ff28e9a3c38c698d25075f9"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "3d31e52421609d0027a15d98ff9ea0e6408b8de185110df00a77789fd38a6a55"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.powerpc64le-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[XDiag]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7af188f8715536a1a7ef1db3b527d08b9ad78e3b"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "e24ddc9cdb2f7a33a7357e0dd39ea5f8606f9b0948856f2ab7147980b5be9c27"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.powerpc64le-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+[[XDiag]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ed0cef0ebcc7de56a7d1d4bec15abff5a7ccea82"
+julia_version = "1.15.0"
+libc = "glibc"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "853bcac3b31b16000a00a30fea049c20598532b2065005ebc93cbd6ca354ebfe"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.powerpc64le-linux-gnu-cxx11-julia_version+1.15.0.tar.gz"
 [[XDiag]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e48b04e5be2f8863ddd47392665f8bdeda8d187c"
+git-tree-sha1 = "6cd3b16c1c6f164c4a3321e2d83d5ad7157bea8d"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[XDiag.download]]
-    sha256 = "cbdc18daed002a79977dcba8ba732fbe40c1f0cabd4c217ea0e6cb2ec560bd2e"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.riscv64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "5f9cef0eea0ad23589e81f340a1fa4c874e471ea5bda943eab87622a8d0c0dc8"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.riscv64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[XDiag]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7c8d101ff2e72f09f40a7640f54032bd23e160ad"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "3a4b2ceae6249ee35e583b94f194c74872707c5522209ebed7876466781ba32a"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.riscv64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+[[XDiag]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bfb98d17e6cebffdb3fa0ee122855948d6b7a809"
+julia_version = "1.15.0"
+libc = "glibc"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "f0d6c035d3bc072365f3f1c67e52679826929e2e7b2b00a7c9858c025f828db8"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.riscv64-linux-gnu-cxx11-julia_version+1.15.0.tar.gz"
 [[XDiag]]
 arch = "x86_64"
-git-tree-sha1 = "ef5d81bb66c6e93b0268682c245c3146fa360385"
+git-tree-sha1 = "a89904d2c5427725c3150fb5253d1f506059ddd3"
 julia_version = "1.10.0"
 os = "macos"
 
     [[XDiag.download]]
-    sha256 = "13ba51529592967a1cbf02ecc5c1d0b9cad529483410d89f6f2b32ea3a3bd507"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "ccc6b4afa145ca614dcd79a7a6c730f55b569f52ea5718cf6aaa3ec84799c715"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[XDiag]]
 arch = "x86_64"
-git-tree-sha1 = "35943a7460e3ed9b1f74968393c16e56003c37d2"
+git-tree-sha1 = "a025deb17b50f38f44f95b61ad74463cc292a09a"
 julia_version = "1.11.1"
 os = "macos"
 
     [[XDiag.download]]
-    sha256 = "61ab6ca3fc3ae4a7970e7ada0fb8095cf78a60bbc6ee2371c271565ebe5adbe0"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "5b9424567b907eb84d66aa980c56ec8f9e19d5e5a47832e200431a3b29f30859"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[XDiag]]
 arch = "x86_64"
-git-tree-sha1 = "f59aaba6fa30fbdfcdc87110b25c6d788680eaaa"
+git-tree-sha1 = "f8552cceb20f7a876d3d9eb6a1b39a975158157c"
 julia_version = "1.12.0"
 os = "macos"
 
     [[XDiag.download]]
-    sha256 = "da1d56a8493f1c915dcb93c9298ebcbeb788d089cc7fda3055e2ef873113f1c3"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "b963104f7c09be5f2133ddcff9dd18c0ce421bdc9f7efd560a7286a359cfe6b1"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[XDiag]]
 arch = "x86_64"
-git-tree-sha1 = "88c92a5c0a6c88c91058f020595cc704d04994f1"
+git-tree-sha1 = "1f7974b392382fe642d7eb45d7276b0022e8883b"
 julia_version = "1.13.0"
 os = "macos"
 
     [[XDiag.download]]
-    sha256 = "e1599d72f0af293ce059d37113d7d7f325ff84c739bd3faf389264506a0a5249"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
+    sha256 = "5ea20fdc5e6154dc5f9fe0fde3ac58acd1d173062880883805d164d139a72fa8"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
+[[XDiag]]
+arch = "x86_64"
+git-tree-sha1 = "a30d209704df97907f98c3b38bb23d40903d73d1"
+julia_version = "1.14.0"
+os = "macos"
+
+    [[XDiag.download]]
+    sha256 = "2ecc3bc216549ad5a33aa37eca7f56bc78dff459ecae96b9c531700ffec4ca35"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-apple-darwin-julia_version+1.14.0.tar.gz"
+[[XDiag]]
+arch = "x86_64"
+git-tree-sha1 = "0e8cafffda92be846ccc001c95d2aa8e0f856834"
+julia_version = "1.15.0"
+os = "macos"
+
+    [[XDiag.download]]
+    sha256 = "bcc2000a32357471102142ed912db1eb098c58f211654d8bf6c75eb1d8da5ebb"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-apple-darwin-julia_version+1.15.0.tar.gz"
 [[XDiag]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2f056feb74faafbe48d98e050180e87c927657d4"
+git-tree-sha1 = "5172e3e5af5133ae31c97e5400a22417ae4310f6"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[XDiag.download]]
-    sha256 = "02c2b868e186c19835bafeb610cc69fb2c08395f88158793cf0a1737cc65feec"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "f816eb9660cccc2b49856fbd129ad45228efd11c4cb11f1c1787921af3120f93"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[XDiag]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "144fca4c3a0cd9a0d3938ef2806416841759c4d4"
+git-tree-sha1 = "c87078f7c18c1193faeafa269879243e76803f5a"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[XDiag.download]]
-    sha256 = "66735c15ff6c9c8ace9ef6484abee0e05b1033aff79e2830ed35ab36dd5bce50"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "0505a3d27dd30f46599b7967ec0303347a590792c514bffc6ed06cc92399b216"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[XDiag]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2262d4125593e37a870874e9843141b0334bb145"
+git-tree-sha1 = "8839cb1b9faf787116b26498b4ac7faa5a196504"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[XDiag.download]]
-    sha256 = "171b08054c034bf941c935032ef703272f311702198bd87d687e305c80e13ad8"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "7fb4ce0a45b069149e3c440073a79c5ea8e8c3f3e30f0928ab7bf6d34583153e"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[XDiag]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "501fe2e350c75fbd5946dd2ab4411d2137a7d425"
+git-tree-sha1 = "c058402e08ded0f1a113b3dfbbf7f585072fcb8e"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[XDiag.download]]
-    sha256 = "83b016a7cfe0b7b3ab64efb63f280f305f5db0be92befdecc1fe307d285e0025"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "0a60521c70ecb207bdc40683ece55c6523521b76cedc90b039752b3a1bd5331d"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[XDiag]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "db59b1a9f3d225f17d96273617017e581610f910"
+git-tree-sha1 = "0124ebdb2f22cdfd1c1e2dd0dda728fac96ed84c"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "9ddf2d7f5e9bc685f4c21d02dd4cc061209b538d06226206329167d746d0164c"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+[[XDiag]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "272d148dda92ececab4ee5d658c61b60a0af2df0"
+julia_version = "1.15.0"
+libc = "glibc"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "1fdd13f0a53446f588cc33c10c04112f5f0cc5f6593d5d923c4982f51b5562d9"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-linux-gnu-cxx11-julia_version+1.15.0.tar.gz"
+[[XDiag]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "94b5f0bce652cccd0027a24794efe76087798c60"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[XDiag.download]]
-    sha256 = "bb2b1bdfac34f269d84424adad473b75113157c001ad4ece8bd678e6e1b7092a"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "b575dc0998828209bb97d83d0c2993a221e113acd9946cc6eb31832e388110e0"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[XDiag]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b1283caf0111067237ad296ac69b1395d65efb3e"
+git-tree-sha1 = "1b11089245811b5f2142e1518be40bb34b9566da"
 julia_version = "1.11.1"
 libc = "musl"
 os = "linux"
 
     [[XDiag.download]]
-    sha256 = "d6a74a8abbfc8016242db8befe67778effe4b7fa1a2df1b6ac792a8e4b190061"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.x86_64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "c33ff8c21e347e38251a5876580ff2824d28a2d52adde35441cac511c03cf8a0"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
 [[XDiag]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "090bbf277622ec050c95c585645f64f5e13fc314"
+git-tree-sha1 = "1d0d2bd1a92281b083192d0441ca6f2f2d8f2541"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[XDiag.download]]
-    sha256 = "e5f3b25b16b0305228808e354d9aa025d3d5e488f42e2c44b612fcc2be779444"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "22f15cce783a750685a11399d8d6a22749926d8b04a378f11138eb41930cf926"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[XDiag]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7c2da577689ce3e3a337be0c8934ace82530ca43"
+git-tree-sha1 = "2592d8a343066f144c7da1a58efb58cf1b74d94b"
 julia_version = "1.13.0"
 libc = "musl"
 os = "linux"
 
     [[XDiag.download]]
-    sha256 = "4410a3dc6b99bdbe616b7e0c691e871ac793542fd4fb03dd44b358e42c335bbc"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.x86_64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "509942ff02ff4880a8371291cadbb4d9f0f74bc58116c17b22ca2dabed339e72"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
 [[XDiag]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "159dbe09c73bed7c955b7c535bcffb6e50ab8a9c"
+git-tree-sha1 = "8db5c85d87e56b94d604f3d5a8a631a143a96869"
+julia_version = "1.14.0"
+libc = "musl"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "ffeac71410c2db20ed02d8cba7529a13fa6b8cfee247e149adf5ec8150b049d5"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
+[[XDiag]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5ff8daa1b384c4e25e364dca39f3b1d0d8a2043d"
+julia_version = "1.15.0"
+libc = "musl"
+os = "linux"
+
+    [[XDiag.download]]
+    sha256 = "145aa7fc9a3fa4577e34c80d7b6d776bdb8d4c06e2b8c56c4f55316680d33eea"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-linux-musl-cxx11-julia_version+1.15.0.tar.gz"
+[[XDiag]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "22c7dd578a5546ea20212bac1f5f2ce7565e24dc"
 julia_version = "1.10.0"
 os = "windows"
 
     [[XDiag.download]]
-    sha256 = "873af0b26b299668b44bf1c9e4d97815a64f727ac51d084e7d6f44b63e489195"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "6ef6de43d21cdb11a7a74025270c1c46024537bff228864a9defcdc2469e2019"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
 [[XDiag]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8735e49e66124e3d5bec11f5927017755b887770"
+git-tree-sha1 = "87fe7ab5b2a80336376de8d8a75478db568d7991"
 julia_version = "1.11.1"
 os = "windows"
 
     [[XDiag.download]]
-    sha256 = "fefec91c93f00043038e3f2d4efafa7078b32420b06a5d2d07b884268062c915"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "27358df0957727976e15c0074c79eee68779deaf6c15f4d79cee5baca566e29e"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
 [[XDiag]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e4279239c4f1d454145388ce27236811b66c7f6c"
+git-tree-sha1 = "7cfcc1f9fdfbbb68ccb79734ac4f3e5f45dcb969"
 julia_version = "1.12.0"
 os = "windows"
 
     [[XDiag.download]]
-    sha256 = "50040636e9f75562615c690d18b18d0caab1dfc41d888eb7c50d91c169d2fb19"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "8b044dfd2dacd2b8de20ee7f7e35b2dda3ba03c43d9ed0a8f7a2b8d7d195b9bc"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
 [[XDiag]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d4315366099d6844e830b84b6f9c649518bc6104"
+git-tree-sha1 = "e55aa972b7e2c28f6087bd2745d770a2c3560ba9"
 julia_version = "1.13.0"
 os = "windows"
 
     [[XDiag.download]]
-    sha256 = "eb9bfb9307ee831d4400c05a59290563f968e82c80dc0c802e14b93b8b3c8da2"
-    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.5.1+0/XDiag.v0.5.1.x86_64-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "2401ba8710f7e870383de215f80890236a762f202b20ec90b1aaf4aa61d617ac"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
+[[XDiag]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "51816eaea23d3572d244ac764850fec3abb2c9f8"
+julia_version = "1.14.0"
+os = "windows"
+
+    [[XDiag.download]]
+    sha256 = "b0bb1bea5af9cc41ac90e650f7a5b9e7c423a3020d416612b8eb0215c18159dd"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-w64-mingw32-cxx11-julia_version+1.14.0.tar.gz"
+[[XDiag]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "51816eaea23d3572d244ac764850fec3abb2c9f8"
+julia_version = "1.15.0"
+os = "windows"
+
+    [[XDiag.download]]
+    sha256 = "b0bb1bea5af9cc41ac90e650f7a5b9e7c423a3020d416612b8eb0215c18159dd"
+    url = "https://github.com/JuliaBinaryWrappers/XDiag_jll.jl/releases/download/XDiag-v0.6.0+0/XDiag.v0.6.0.x86_64-w64-mingw32-cxx11-julia_version+1.15.0.tar.gz"
